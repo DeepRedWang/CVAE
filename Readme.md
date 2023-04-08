@@ -8,5 +8,5 @@ The use of traditional compressed sensing methods in sparse aperture inverse syn
 
 ## Architecture
 The flowchart for the whole architecture of CVAE:
-[CVAE architecture](./figs/architecture/flowchart.eps)
+![CVAE architecture](./figs/architecture/flowchart.png)
 
