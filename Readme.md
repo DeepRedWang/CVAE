@@ -8,5 +8,20 @@ The use of traditional compressed sensing methods in sparse aperture inverse syn
 
 ## Architecture
 The flowchart for the whole architecture of CVAE:
-![CVAE architecture](./figs/architecture/flowchart.png)
+![CVAE architecture](./figs/architecture/flowchart.eps)
 
+## Citation
+Please use the following bibtex entry:
+```
+@ARTICLE{CVAE,
+  author={Wang, Jianyang and Li, Shiyuan and Cheng, Di and Zhou, Lingyun and Chen, Chang and Chen, Weidong},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={CVAE: An Efficient and Flexible Approach for Sparse Aperture ISAR Imaging}, 
+  year={2023},
+  volume={20},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2023.3234432}}
+```
+## License
+[MIT](./LICENSE)
