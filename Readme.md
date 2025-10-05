@@ -1,4 +1,4 @@
-# CVAE-pytorch
+# CVAE: An Efficient and Flexible Approach for Sparse Aperture ISAR Imaging
 Pytorch implementation of CVAE, with simple annotation
 >CVAE: An Efficient and Flexible Approach for Sparse Aperture ISAR Imaging
 [CVAE full paper](https://ieeexplore.ieee.org/abstract/document/10006814)
@@ -25,3 +25,4 @@ Please use the following bibtex entry:
 ```
 ## License
 [MIT](./LICENSE)
+
